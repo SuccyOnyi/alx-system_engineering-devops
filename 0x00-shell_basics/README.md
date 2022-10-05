@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .)
+A non-empty readme
